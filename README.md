@@ -1,1 +1,1 @@
-# ai-training-week1
+This project contains charts created with Matplotlib.
