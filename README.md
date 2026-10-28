@@ -1,1 +1,1 @@
-# ai-training-week1
+This project contains Python data visualizations and analytics.
