@@ -1,1 +1,1 @@
-This project contains charts created with Matplotlib.
+This project contains Python data visualizations and analytics.
